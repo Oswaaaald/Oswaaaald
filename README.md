@@ -30,7 +30,7 @@
 <h2>🎓 Certifications</h2><br>
 <p align="center">
 	<a href="https://www.credly.com/badges/dc0f20ae-032f-458a-a7c7-28c6fb4fde44/public_url" target="_blank">
-		<img width="150px" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
+		<img width="180px" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
 	</a>
 </p>
 
