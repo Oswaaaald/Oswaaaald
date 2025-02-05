@@ -23,8 +23,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Oswaaaald&show_icons=true&theme=algolia" alt="GitHub Stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaaaald&layout=compact&theme=algolia" alt="Langages les plus utilisés">
+	<img src="https://github-readme-stats.vercel.app/api?username=Oswaaaald&show_icons=true&theme=prussian" alt="GitHub Stats">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaaaald&layout=compact&theme=prussian" alt="Langages les plus utilisés">
 </p>
 
 <h2>🎓 Certifications</h2><br>
