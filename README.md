@@ -1,50 +1,52 @@
 <p align="center">
   <img src="https://img.shields.io/badge/19%20Brussels-black?style=for-the-badge&logo=42" alt="42 Network">
-  <img src="https://img.shields.io/badge/Certified-orange?style=for-the-badge&logo=amazonwebservices">
+  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonwebservices">
 </p>
 
 
-<h1 align="center">👋 Salut, moi c'est Oswaaaald !</h1>
+<h1 align="center">👋 Salut, moi c'est <strong>Oswaaaald</strong> !</h1>
 
-<p align="center">
+<p align="center" style="font-size: 18px;">
   🎓 Étudiant à <strong>19 Brussels (42 Network)</strong><br>
   ☁️ <strong>Certifié AWS</strong> (Cloud Practitioner)
 </p>
-
-
 <p align="center">
 	<img src="https://badge.mediaplus.ma/darkblue/mleonet?1337Badge=off&UM6P=off">
 </p>
 
-## 🚀 Projets en cours
-- 🛠️ [C++](https://github.com/Oswaaaald/cpp)
-- ☁️ [AWS - Solution Architect Associates](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+<h2>🚀 Projets en cours</h2>
+<p>
+  🛠️ <a href="https://github.com/Oswaaaald/cpp" target="_blank"><strong>C++</strong></a><br>
+  ☁️ <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><strong>AWS - Solution Architect Associates</strong></a>
+</p>
 
-## 📊 GitHub Stats
+
+<h2>📊 GitHub Stats</h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Oswaaaald&show_icons=true&theme=dark" alt="GitHub Stats">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaaaald&layout=compact&theme=dark" alt="Langages les plus utilisés">
 </p>
 
-# 🎓 Certifications
+<h2>🎓 Certifications</h2><br>
 <p align="center">
 	<a href="https://www.credly.com/badges/dc0f20ae-032f-458a-a7c7-28c6fb4fde44/public_url" target="_blank">
 		<img width="150px" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
 	</a>
 </p>
 
-## 🛠️ Compétences
+<h2>🛠️ Compétences</h2><br>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=c,cpp,aws,cloudflare,html,css,js,mysql,php,raspberrypi,linux,apple,windows,vscode,vim,nginx,bash"/><br>
+	<img src="https://skillicons.dev/icons?i=c,cpp,aws,cloudflare,nginx,html,css,js,mysql,php"/><br>
+	<img src="https://skillicons.dev/icons?i=raspberrypi,linux,apple,windows,vscode,bash,vim,sublime"/>
 </p>
 
 
-## 📖 Learning
+<h2>📖 Learning</h2><br>
 <p align="center">
 	<img src="https://skillicons.dev/icons?i=docker,postman,py,nodejs,npm,"/>
 </p>
 
-## 🌍 Me contacter
+<h2>🌍 Me contacter</h2>
 <p align="center">
 	<a href="https://linkedin.com/in/maxim-leonet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:mleonet@student.s19.be">
