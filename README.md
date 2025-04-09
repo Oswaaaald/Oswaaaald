@@ -29,12 +29,12 @@
 
 <h2>🎓 Certifications</h2><br>
 <p align="center">
-	<a href="https://www.credly.com/badges/dc0f20ae-032f-458a-a7c7-28c6fb4fde44/public_url" target="_blank">
-		<img width="180px" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
-	</a>&nbsp;
-	<a href="https://www.credly.com/badges/5859a85d-dcbe-4a6f-beb1-da49bc60957a/public_url" target="_blank">
-		<img width="180px" src="assets/aws-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate">
-	</a>
+  <a href="https://www.credly.com/badges/dc0f20ae-032f-458a-a7c7-28c6fb4fde44/public_url" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img width="180px" src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner">
+  </a>
+  <a href="https://www.credly.com/badges/5859a85d-dcbe-4a6f-beb1-da49bc60957a/public_url" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img width="180px" src="assets/aws-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate">
+  </a>
 </p>
 
 <h2>🛠️ Compétences</h2><br>
