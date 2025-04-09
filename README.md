@@ -11,7 +11,7 @@
   ☁️ <strong>Certifié AWS</strong> (Cloud Practitioner)
 </p>
 <p align="center">
-	<img src="https://badge.mediaplus.ma/darkblue/mleonet?1337Badge=off&UM6P=off">
+	<img src="https://badge.mediaplus.ma/darkblue/mleonet?1337Badge=off&UM6P=off" alt="">
 </p>
 
 <h2>🚀 Projets en cours</h2>
