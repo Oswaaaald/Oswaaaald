@@ -8,7 +8,7 @@
 
 <p align="center" style="font-size: 18px;">
   🎓 Étudiant à <strong>19 Brussels (42 Network)</strong><br>
-  ☁️ <strong>Certifié AWS</strong> (Cloud Practitioner)
+  ☁️ <strong>Certifié AWS</strong> (Cloud Practitioner & Solutions Architect Associates)
 </p>
 <p align="center">
 	<img src="https://badge.mediaplus.ma/darkblue/mleonet?1337Badge=off&UM6P=off" alt="">
@@ -16,8 +16,7 @@
 
 <h2>🚀 Projets en cours</h2>
 <p>
-  🛠️ <a href="https://github.com/Oswaaaald/cpp" target="_blank"><strong>C++</strong></a><br>
-  ☁️ <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank"><strong>AWS - Solution Architect Associates</strong></a>
+  🛠️ <a href="https://github.com/Xyxy21/webserv" target="_blank"><strong>Webserv</strong></a><br>
 </p>
 
 
@@ -51,7 +50,6 @@
 
 <h2>🌍 Me contacter</h2>
 <p align="center">
-	<a href="https://linkedin.com/in/maxim-leonet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="mailto:mleonet@student.s19.be">
   		<img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 	</a>
