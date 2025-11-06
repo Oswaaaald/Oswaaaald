@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/19%20Brussels-black?style=for-the-badge&logo=42" alt="42 Network">
+  <img src="https://img.shields.io/badge/Belgium-black?style=for-the-badge&logo=42" alt="42 Belgium">
   <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonwebservices">
 </p>
 
@@ -7,7 +7,7 @@
 <h1 align="center">👋 Salut, moi c'est <strong>Oswaaaald</strong> !</h1>
 
 <p align="center" style="font-size: 18px;">
-  🎓 Étudiant à <strong>19 Brussels (42 Network)</strong><br>
+  🎓 Étudiant à <strong>42 Belgium</strong><br>
   ☁️ <strong>Certifié AWS</strong> (Cloud Practitioner & Solutions Architect Associates)
 </p>
 <p align="center">
