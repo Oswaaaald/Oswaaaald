@@ -16,7 +16,7 @@
 
 <h2>🚀 Projets en cours</h2>
 <p>
-  🛠️ <a href="https://github.com/Xyxy21/webserv" target="_blank"><strong>Webserv</strong></a><br>
+  🛠️ <a href="https://github.com/JNTHNN/ft_transcendence" target="_blank"><strong>Transcendence</strong></a><br>
 </p>
 
 
