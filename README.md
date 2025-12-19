@@ -15,10 +15,6 @@
 </p>
 
 <h2>🚀 Projets en cours</h2>
-<p>
-  🛠️ <a href="https://github.com/JNTHNN/ft_transcendence" target="_blank"><strong>Transcendence</strong></a><br>
-</p>
-
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
@@ -38,19 +34,19 @@
 
 <h2>🛠️ Compétences</h2><br>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=c,cpp,aws,cloudflare,nginx,html,css,js,mysql,php"/><br>
+	<img src="https://skillicons.dev/icons?i=c,cpp,aws,cloudflare,docker,nginx,html,css,js,mysql,php"/><br>
 	<img src="https://skillicons.dev/icons?i=raspberrypi,linux,apple,windows,vscode,bash,vim,sublime"/>
 </p>
 
 
 <h2>📖 Learning</h2><br>
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=docker,postman,py,nodejs,npm,"/>
+	<img src="https://skillicons.dev/icons?i=postman,py,nodejs,npm,"/>
 </p>
 
 <h2>🌍 Me contacter</h2>
 <p align="center">
-	<a href="mailto:mleonet@student.s19.be">
+	<a href="mailto:mleonet@student.42belgium.be">
   		<img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 	</a>
 </p>
